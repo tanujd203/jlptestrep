@@ -5,17 +5,17 @@
 @font-face {
 	font-family: 'FontAwesome';
 	src:
-		url('https://rawgit.com/tanujd203/jlptestrep/master/src/main/webapp/assets/fonts/fontawesome-webfont.eot?v=4.6.3');
+		url(https://rawgit.com/tanujd203/jlptestrep/master/src/main/webapp/assets/fonts/fontawesome-webfont.eot?v=4.6.3);
 	src:
-		url('https://rawgit.com/tanujd203/jlptestrep/master/src/main/webapp/assets/fonts/fontawesome-webfont.eot?#iefix&v=4.6.3')
+		url(https://rawgit.com/tanujd203/jlptestrep/master/src/main/webapp/assets/fonts/fontawesome-webfont.eot?#iefix&v=4.6.3)
 		format('embedded-opentype'),
-		url('https://rawgit.com/tanujd203/jlptestrep/master/src/main/webapp/assets/fonts/fontawesome-webfont.woff2?v=4.6.3')
+		url(https://rawgit.com/tanujd203/jlptestrep/master/src/main/webapp/assets/fonts/fontawesome-webfont.woff2?v=4.6.3)
 		format('woff2'),
-		url('https://rawgit.com/tanujd203/jlptestrep/master/src/main/webapp/assets/fonts/fontawesome-webfont.woff?v=4.6.3')
+		url(https://rawgit.com/tanujd203/jlptestrep/master/src/main/webapp/assets/fonts/fontawesome-webfont.woff?v=4.6.3)
 		format('woff'),
-		url('https://rawgit.com/tanujd203/jlptestrep/master/src/main/webapp/assets/fonts/fontawesome-webfont.ttf?v=4.6.3')
+		url(https://rawgit.com/tanujd203/jlptestrep/master/src/main/webapp/assets/fonts/fontawesome-webfont.ttf?v=4.6.3)
 		format('truetype'),
-		url('https://rawgit.com/tanujd203/jlptestrep/master/src/main/webapp/assets/fonts/fontawesome-webfont.svg?v=4.6.3#fontawesomeregular')
+		url(https://rawgit.com/tanujd203/jlptestrep/master/src/main/webapp/assets/fonts/fontawesome-webfont.svg?v=4.6.3#fontawesomeregular)
 		format('svg');
 	font-weight: normal;
 	font-style: normal
