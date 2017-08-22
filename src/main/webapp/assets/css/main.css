@@ -2668,7 +2668,8 @@ table.alt tbody tr td {
 .wrapper.style3 {
 	background-color: #000;
 	color: #bfbfbf;
-	background-image: url(https://rawgit.com/tanujd203/jlptestrep/master/src/main/webapp/images/bg.jpg);
+	background-image:
+		url(https://rawgit.com/tanujd203/jlptestrep/master/src/main/webapp/images/bg.jpg);
 	background-size: cover;
 	background-attachment: fixed;
 	background-position: center;
@@ -3178,11 +3179,15 @@ top
 
 
 
+
+
 :
 
 
 
+
  
+
 
 
 
@@ -3194,11 +3199,15 @@ opacity
 
 
 
+
+
 :
 
 
 
+
  
+
 
 
 
@@ -3220,11 +3229,15 @@ top
 
 
 
+
+
 :
 
 
 
+
  
+
 
 
 
@@ -3236,11 +3249,15 @@ opacity
 
 
 
+
+
 :
 
 
 
+
  
+
 
 
 
@@ -3262,11 +3279,15 @@ top
 
 
 
+
+
 :
 
 
 
+
  
+
 
 
 
@@ -3278,11 +3299,15 @@ opacity
 
 
 
+
+
 :
 
 
 
+
  
+
 
 
 
@@ -3304,11 +3329,15 @@ top
 
 
 
+
+
 :
 
 
 
+
  
+
 
 
 
@@ -3320,11 +3349,15 @@ opacity
 
 
 
+
+
 :
 
 
 
+
  
+
 
 
 
@@ -3528,6 +3561,8 @@ ul
 
 
 
+
+
 .links
 >
 li
@@ -3537,17 +3572,23 @@ a
 
 
 
+
+
 :not
 
 
+
  
+
 
 
 (
 .button
 
 
+
  
+
 
 
 )
@@ -3557,10 +3598,14 @@ border
 
 
 
+
+
 :
 
 
+
  
+
 
 
 0;
@@ -3569,26 +3614,36 @@ border-top
 
 
 
+
+
 :
 
 
+
  
+
 
 
 solid
 
 
+
  
+
 
 
 1
 px
 
 
+
  
 
 
+
 rgba
+
+
 
 
 
@@ -3603,8 +3658,12 @@ rgba
 
 
 
+
+
 );
 color
+
+
 
 
 
@@ -3612,10 +3671,14 @@ color
 :
 
 
+
  
 
 
+
 rgba
+
+
 
 
 
@@ -3630,8 +3693,12 @@ rgba
 
 
 
+
+
 );
 display
+
+
 
 
 
@@ -3639,10 +3706,14 @@ display
 :
 
 
+
  
 
 
+
 block
+
+
 
 
 
@@ -3653,14 +3724,20 @@ line-height
 
 
 
+
+
 :
+
 
 
  
 
 
+
 3
 .5rem
+
+
 
 
 
@@ -3671,13 +3748,19 @@ text-decoration
 
 
 
+
+
 :
+
 
 
  
 
 
+
 none
+
+
 
 
 
@@ -3688,13 +3771,19 @@ text-transform
 
 
 
+
+
 :
+
 
 
  
 
 
+
 uppercase
+
+
 
 
 
@@ -3717,9 +3806,13 @@ ul
 
 
 
+
+
 .links
 >
 li
+
+
 
 
 
@@ -3731,17 +3824,23 @@ a
 
 
 
+
+
 :not
 
 
+
  
+
 
 
 (
 .button
 
 
+
  
+
 
 
 )
@@ -3751,15 +3850,21 @@ border-top
 
 
 
+
+
 :
+
 
 
  
 
 
+
 0
 !
 important
+
+
 
 
 
